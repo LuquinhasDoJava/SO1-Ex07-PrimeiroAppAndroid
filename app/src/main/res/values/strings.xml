@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ex01</string>
+    <string name="valorA">Digite o valor de A</string>
+    <string name="valorB">Digite o valor de B</string>
+    <string name="valorC">Digite o valor de C</string>
+    <string name="calcular">Clique para calcular</string>
+    <string name="resultado"></string>
+
+
+</resources>
